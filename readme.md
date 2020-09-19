@@ -9,3 +9,5 @@ Features:
 - 'Like' recipes to acccess them from a handy tab when you navigate to other recipes or even after reloading the browser.
 - Nice pagination system showing 10 recipes in each page.
 - Check the instructions to cook any recipe in their original website.
+
+Note:  I worked on this project to learn JavaScript and hence it is not original work.
