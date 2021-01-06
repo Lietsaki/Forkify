@@ -13,19 +13,14 @@
   "dependencies": {
     "@babel/polyfill": "^7.7.0",
     "acorn": "^7.1.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "fractional": "^1.0.0",
     "kind-of": "^6.0.3",
     "minimist": "^1.2.5",
-<<<<<<< HEAD
     "node-forge": "^0.10.0",
     "serialize-javascript": "^3.1.0",
     "uniqid": "^5.1.0",
     "yargs-parser": "^20.0.0"
-=======
-    "serialize-javascript": "^3.1.0",
-    "uniqid": "^5.1.0"
->>>>>>> 88587acf3b9c997326de9ec08367ef70224ad85c
   },
   "devDependencies": {
     "@babel/core": "^7.7.2",
